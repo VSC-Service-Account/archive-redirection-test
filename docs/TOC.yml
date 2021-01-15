@@ -1,2 +1,12 @@
-- name: Index
-  href: index.md
+- name: folder1
+  items:
+  - name: file1
+    href: folder1/file1.md
+  - name: file2
+    href: folder1/file2.md
+- name: folder2
+  items:
+  - name: file3
+    href: folder2/file3.md
+  - name: file4
+    href: folder2/file4.md

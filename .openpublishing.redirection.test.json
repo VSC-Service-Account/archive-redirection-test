@@ -1,0 +1,14 @@
+{
+    "redirections": [
+      {
+        "source_path": "docs/index1.yml",
+        "redirect_url": "/archive/yml-archive/index1",
+        "redirect_document_id": false
+      },     
+      {
+        "source_path_from_root": "/docs/index2.yml",
+        "redirect_url": "/archive/yml-archive/index2",
+        "redirect_document_id": false
+      }
+    ]
+}
