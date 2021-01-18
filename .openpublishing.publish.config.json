@@ -2,7 +2,8 @@
   "redirection_files": [
     ".openpublishing.redirection.json",
     ".openpublishing.redirection.test.json",
-    "docs/.openpublishing.redirection.json"
+    "docs/.openpublishing.redirection.json",
+    "docs/.Openpublishing.redirection.json"
   ],
   "docsets_to_publish": [
     {
