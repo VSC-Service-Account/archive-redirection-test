@@ -1,7 +1,7 @@
 {
     "redirections": [
       {
-        "source_path": "docs/folder1/file1.md",
+        "source_path_from_root": "/docs/folder1/file1.md",
         "redirect_url": "/archive/redirection-test-target/folder1/file1",
         "redirect_document_id": false
       }
