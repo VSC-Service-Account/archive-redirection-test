@@ -1,6 +1,21 @@
 {
   "redirections": [
     {
+      "source_path": "docs/folder1/file2.md",
+      "redirect_url": "/archive/redirection-test-target/folder1/file2",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/folder2/file4.md",
+      "redirect_url": "/archive/redirection-test-target/folder2/file4",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/folder3/file5.md",
+      "redirect_url": "/archive/redirection-test-target/folder3/file5",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "docs/folder2/file3.md",
       "redirect_url": "/archive/redirection-test-target/folder2/file3",
       "redirect_document_id": false
