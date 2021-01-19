@@ -1,8 +1,2 @@
 - name: folder1
-  items:
-  - name: file2
-    href: folder1/file2.md
 - name: folder2
-  items:
-  - name: file4
-    href: folder2/file4.md
